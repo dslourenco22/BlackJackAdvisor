@@ -1,7 +1,3 @@
-Here's a professional **README** file for your Blackjack strategy program:
-
----
-
 # Blackjack Strategy Advisor
 
 **Author**: Lourenco DaSilva  
