@@ -4,7 +4,7 @@ October 6th 2024
 (Personal Project)
 
 This program is designed to tell you what move to make in blackjack based on a basic Blackjack strategy
-The algoritm is based on https://www.blackjackapprenticeship.com/blackjack-strategy-charts/  */
+The algorithm is based on https://www.blackjackapprenticeship.com/blackjack-strategy-charts/  */
 
 #include <stdio.h>
 
