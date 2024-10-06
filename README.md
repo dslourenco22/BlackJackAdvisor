@@ -4,7 +4,7 @@
 **Date**: October 6th, 2024  
 **Project Type**: Personal Project
 
-## Disclaimer:
+## Disclaimer
 
 This is not 100% correct and should not be used for gambling involving with currency as Blackjack is a game that includes chance. Gamble Responsibly. Drink Responsibly. And be extremely responsible if you're doing both at the same time. Enjoy!
 
