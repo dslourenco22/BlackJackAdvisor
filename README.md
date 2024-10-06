@@ -4,6 +4,10 @@
 **Date**: October 6th, 2024  
 **Project Type**: Personal Project
 
+## Disclaimer:
+
+This is not 100% correct and should not be used for gambling involving with currency as Blackjack is a game that includes chance. Gamble Responsibly. Drink Responsibly. And be extremely responsible if you're doing both at the same time. Enjoy!
+
 ## Overview
 
 The **Blackjack Strategy Advisor** is a C program designed to help players make optimal decisions in the game of Blackjack. The program uses a simplified version of the basic Blackjack strategy to suggest whether the player should **Hit**, **Stand**, **Double**, or **Split** based on their hand and the dealer's visible card.
