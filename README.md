@@ -6,7 +6,7 @@
 
 ## Disclaimer
 
-This is not 100% correct and should not be used for gambling involving with currency as Blackjack is a game that includes chance. Gamble Responsibly. Drink Responsibly. And be extremely responsible if you're doing both at the same time. Enjoy!
+This is not 100% correct and should not be used for gambling involving with true currency as Blackjack is a game that includes chance. Gamble Responsibly. Drink Responsibly. And be extremely responsible if you're doing both at the same time. Enjoy!
 
 ## Overview
 
